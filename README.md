@@ -1,6 +1,18 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Welcome to the Rental Car Details Web Application repository! 🚗
+This GitHub repository showcases a web application built with Next.js, Tailwind CSS, and TypeScript. It serves as a powerful tool for users to effortlessly check the details of rental cars.
+
+Key Features:
+
+## Next.js: Utilizing the benefits of server-side rendering and efficient routing for a smooth user experience.
+## Tailwind CSS: Employing a highly customizable CSS framework for creating a visually appealing and responsive design.
+## TypeScript: Ensuring robust type-checking and improved developer productivity.
+The web application provides users with an intuitive interface to search and explore a wide range of rental cars. Users can view important details such as car models, availability, pricing, and more. With seamless navigation and an optimized user experience, finding the perfect rental car has never been easier!
+
+Contributions, bug reports, and feature requests are always welcome. Let's collaborate and enhance this web application together. Feel free to explore the codebase, propose improvements, and submit pull requests.
+
+Thank you for visiting! Start your engines and happy coding! 🏎️
 
 First, run the development server:
 
